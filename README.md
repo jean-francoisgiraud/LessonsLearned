@@ -4,7 +4,7 @@ LL and KB on github markdown etc.
 Markdown HTML.  
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet.  
 to break a line end it with a period and --2 spaces--.  
-to notify another user in a pull request use the following (@mention (system) in the pull request to self if necessary)  
+to notify another user in a pull request use the following (@mention (system) in the pull request to self if necessary)  for ex:  
 @github/m-amrei What do you think about these updates?  
 
 # Workflows Roles and Responsibilities  
